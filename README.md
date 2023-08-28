@@ -1,5 +1,11 @@
-# Desafio logica m01 b2b ifood t06
+# Desafio de Lógica Módulo 01.
 
-Primeiro módulo de Lógica com Node.js do curso de Backend da Cubos Academy.
+Primeiro módulo de Lógica com do curso de Backend da Cubos Academy.
 
-Os desafios foram feios no site HackerRank.
+## Tecnologias
+
+- JavaScript
+- Node.js
+
+## HackerRank
+- Os desafios foram feitos usando o site HackerRank.
